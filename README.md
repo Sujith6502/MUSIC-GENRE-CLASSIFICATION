@@ -40,7 +40,7 @@ Neural networks have found profound success in the area of pattern recognition. 
 
 <h2> Convolutional Neural Networks </h2>
 <p>
-CNNs or convolutional neural nets are a type of deep learning algorithm that does really well at learning images. To use them for Audio classification we extract features which look like images and shape them in a way in order to feed them into a CNN. We use the <a href="https://librosa.org/doc/latest/index.html">librosa</a> package to do the same. 
+CNNs or convolutional neural networks are a type of deep learning algorithm that does really well at learning images. To use them for Audio classification we extract features which look like images and shape them in a way in order to feed them into a CNN. We use the <a href="https://librosa.org/doc/latest/index.html">librosa</a> package to do the same. 
 </p>
 <a> <img src = "https://miro.medium.com/max/800/1*Ahllapa1yWfoLQhyNxE1hg.png" height=300> </a>
 
